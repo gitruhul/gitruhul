@@ -1,8 +1,3 @@
-# Dummy Login Page
+# Know about Me?
 
-To access the secure area, please enter your login credentials.
-
-Username: [      ]  
-Password: [      ]
-
-[Login](redirected.md)
+<a href="./me.md"><img source="https://www.graphicmore.com/wp-content/uploads/2018/03/Creative-Login-Form-UI-Template-Vector-Design.jpg"></a>
