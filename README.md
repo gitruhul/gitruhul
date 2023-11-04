@@ -4,7 +4,7 @@
 
     - Joined on 03-03-2014
 
-* M.Tech (2011 - 2013 and First Batch) at VR Siddhartha Engg College.
+* M.Tech (2011 - 2013 and First Batch in IT) at VR Siddhartha Engg College.
 
 * Contact Email
 
