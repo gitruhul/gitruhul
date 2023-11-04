@@ -1,6 +1,12 @@
 - 👋 Hi, **I’m Ruhulla Sheik**
 
-Working as Senior Software Developer (R&D) 'Logility Solutions Pvt Ltd'.
+* Working as Senior Software Developer (R&D) 'Logility Solutions Pvt Ltd'.
+
+    - Joined on 03-03-2014
+
+* M.Tech (2011 - 2013 and First Batch) at VR Siddhartha Engg College.
+
+* Contact Email
 
     - sk.ruhulla@gmail.com
 
