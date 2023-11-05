@@ -22,12 +22,9 @@
 
 ## Few facts ( ~~memes~~ ) that applies to me 🤣:
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_001.png" alt="Who did that">
-    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_002.png" alt="Null vs Non-Zero">
-    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_003.png" alt="Programmer Printer">
-    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_004.png" alt="UI pain">
-    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_005.png" alt="Delete code">
-    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_006.png" alt="Refactor code">
-    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_007.png" alt="Debug stages">
-</div>
+
+| <img src="./img/meme_001.png" width=300 height=300 alt="Who did that">       | <img src="./img/meme_002.png" width=300 height=300 alt="Null vs Non-Zero"> |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| <img src="./img/meme_003.png" width=300 height=300 alt="Programmer Printer"> | <img src="./img/meme_004.png" width=300 height=300 alt="UI pain">          |
+| <img src="./img/meme_005.png" width=300 height=300 alt="Delete code">        | <img src="./img/meme_006.png" width=300 height=300 alt="Refactor code">    |
+| <img src="./img/meme_007.png" width=300 height=300 alt="Debug stages">       | <img src="./img/meme_008.png" width=300 height=300 alt="Programmer Coffe"> |
