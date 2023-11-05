@@ -20,5 +20,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitruhul&show_icons=true&locale=en&layout=compact" alt="gitruhul" /></p>
 
-## Few facts ( ~~memes~~ ) that apllies to me 🤣:
+## Few facts ( ~~memes~~ ) that applies to me 🤣:
 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_001.png" alt="Who did that">
+    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_002.png" alt="Null vs Non-Zero">
+    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_003.png" alt="Programmer Printer">
+    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_004.png" alt="UI pain">
+    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_005.png" alt="Delete code">
+    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_006.png" alt="Refactor code">
+    <img style="max-width: 100%; height: auto; display: block;" src="./img/meme_007.png" alt="Debug stages">
+</div>
